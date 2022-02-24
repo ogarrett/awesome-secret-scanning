@@ -13,6 +13,7 @@
 
  | Name | Source | Last commit | License
  | --- | --- | --- | --- | 
+ | <a href="https://github.com/deepfence/SecretScanner">deepfence/SecretScanner</a> | https://github.com/deepfence/SecretScanner | <a href="https://github.com/deepfence/SecretScanner/commit/9b1daf81e32b908ace098363ce666cacc1d00e2a">17/02/22</a> | <a href="https://github.com/deepfence/SecretScanner/blob/master/LICENSE">MIT</a>
  | <a href="https://github.com/zricethezav/gitleaks">zricethezav/gitLeaks</a> | https://github.com/zricethezav/gitleaks | <a href="https://github.com/zricethezav/gitleaks/commit/aae23acff347aacfb701f483375955465097f443">12/21/21</a> | <a href="https://github.com/zricethezav/gitleaks/blob/master/LICENSE">MIT</a>
  | <a href="https://git-secret.io/">sobolevn/git-secret | https://github.com/sobolevn/git-secret | <a href="https://github.com/sobolevn/git-secret/commit/b0c9f6347ea054c03d77c62158362e34c4d9ff47">12/20/21</a> | <a href="https://github.com/sobolevn/git-secret/blob/master/LICENSE.md">MIT</a>
  | <a href="https://github.com/awslabs/git-secrets">awslabs/git-secrets</a> | https://github.com/awslabs/git-secrets | <a href="https://github.com/awslabs/git-secrets/commit/b9e96b3212fa06aea65964ff0d5cda84ce935f38">07/29/21</a> | <a href="https://github.com/awslabs/git-secrets/blob/master/LICENSE.txt">Apache 2.0</a>
